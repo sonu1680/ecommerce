@@ -49,7 +49,7 @@ export default function Preorder() {
   };
 
   useEffect(() => {
-   // getpreorder();
+   getpreorder();
   }, []);
 
   // Calculate discount percentage
